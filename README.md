@@ -221,9 +221,3 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 The Llama Family Models: [Open and Efficient Foundation Language Models](https://ai.meta.com/llama/)
 
 LLaMA-Factory: [Unified Efficient Fine-Tuning of 100+ Language Models](https://github.com/hiyouga/LLaMA-Factory/tree/main)
-
-## ♥️ Contributors
-
-<a href="https://github.com/AI-in-Health/RiskAgent/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AI-in-Health/RiskAgent" />
-</a>
