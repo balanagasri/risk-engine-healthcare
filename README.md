@@ -4,15 +4,6 @@
  </a>
 </h2>
  
-<h5 align="center">
-    RiskAgent provides high-quality, evidence-based risk predictions for over 387 risk scenarios across diverse complex diseases, including rare diseases and cancer.</h5>
-<h5 align="center">If you like our project, please give us a star ⭐ on GitHub for the latest update. </h5>
-
- 
-<h5 align="center">
-    
-   [![arxiv](https://img.shields.io/badge/Arxiv-2503.03802-red)](https://arxiv.org/pdf/2503.03802.pdf)
-</h5>
 
 
 <h5 align="center">
